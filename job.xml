@@ -7,7 +7,7 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>C:\Users\srira\OneDrive\Desktop\Folders\Devops(Final)</url>
+          <url>https://github.com/dilleshwar-17/DEVOPS_D.git</url>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
